@@ -32,7 +32,7 @@ function sortByNationality($a, $b) {
     <title>UOB Data API</title>
 </head>
 <body>
-    <h1>Number of students enrolled in bachelor programs in college of IT, UoB</h1>
+    <h1> UOB Colleges Statistics </h1>
     <div class = "overflow-auto">    
     <!--- Display the data in a table --->
     <table>

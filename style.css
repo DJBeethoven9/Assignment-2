@@ -5,12 +5,13 @@ Maitham Ali Isa         20186039
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
+    
 }
 
 h1 {
     margin-bottom: 20px;
     text-align: center;
-    color: #7b7b97;
+    color: #004fa3;
 }
 
 table {
@@ -22,16 +23,17 @@ table {
 }
 
 table td{
-    color: #6e6e74a6;
+    color: #000000
+    ;
 }
 
 table th{
-    background-color: #696975;
+    background-color: #004fa3;
     color: white;
 }
 
 table th, table td{
-    border: 1px solid #8b8b8b;
+    border: 1px solid #004fa3;
     padding: 12px;
     text-align: center;
 }
