@@ -30,12 +30,12 @@ table {
 }
 
 table th {
-    background-color: #004fa3;
+    background-color: #004fa3! important;
     color: white;
 }
 
 table th, table td {
-    border: 1px solid #004fa3;
+    border: 1px solid #000000;
     padding: 12px;
     text-align: center;
 }
