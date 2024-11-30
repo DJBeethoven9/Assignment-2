@@ -1,0 +1,51 @@
+/*
+Sayed Jaafar Sadeq      20184311
+Maitham Ali Isa         20186039
+*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #7b7b97;
+}
+
+table {
+    width: 80%; 
+    max-width: 1000px; 
+    margin: 0 auto;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table td{
+    color: #6e6e74a6;
+}
+
+table th{
+    background-color: #696975;
+    color: white;
+}
+
+table th, table td{
+    border: 1px solid #8b8b8b;
+    padding: 12px;
+    text-align: center;
+}
+@media (max-width: 480px) {
+    table {
+        width: 100%;
+    }
+
+    table th, table td {
+        padding: 4px;
+        font-size: 12px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+}
